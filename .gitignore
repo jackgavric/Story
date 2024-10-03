@@ -1,0 +1,6 @@
+tajne.txt
+.DS_Store
+
+# Ovo je komentar
+# Ako hoću da su ignored svi log fajlovi:
+*.log
